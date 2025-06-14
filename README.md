@@ -77,6 +77,8 @@ El conjunto de datos fue descargado de Kaggle mediante `kagglehub`:
 ![Distribucion de la confianza en las quejas negativas](https://github.com/user-attachments/assets/0ec1a9b0-aa1f-420e-878b-4c839e600799)
 
 ---
+🔎 El resto de visualizaciones están disponibles en images
+
 
 ## 🗃 Estructura del repositorio
 
