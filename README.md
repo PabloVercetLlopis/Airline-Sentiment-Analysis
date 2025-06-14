@@ -96,7 +96,7 @@ Airline-Sentiment-Analysis/
 └── requirements.txt (opcional)
 
 
-📌 Conclusiones
+## 📌 Conclusiones
 - La mayoría de los tweets reflejan sentimientos negativos hacia las aerolíneas.
 
 - United y American Airlines acumulan el mayor volumen de críticas.
