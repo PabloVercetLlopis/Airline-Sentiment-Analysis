@@ -50,31 +50,31 @@ El conjunto de datos fue descargado de Kaggle mediante `kagglehub`:
 
 ### 2. Tweets por Aerolínea y Sentimiento
 
-![Tweets por aerolínea](images/tweets_by_airline_and_sentiment.png)
+![Tweets por cada sentimiento por cada Aerolinea](https://github.com/user-attachments/assets/cc415eac-665a-4dc1-97bf-f369c27e9b59)
 
 ---
 
 ### 3. Razones Negativas Más Comunes
 
-![Razones negativas](images/negative_reasons_count.png)
+![Conteo de tweets por cada razon negativa](https://github.com/user-attachments/assets/9032f915-a584-43d5-9529-dcc2eb797a12)
 
 ---
 
 ### 4. WordCloud: Pérdida de equipaje y vuelo cancelado
 
-![WordCloud Customer Service](images/wordcloud_customer_service.png)
+![Wordcloud de 2 razones negativas](https://github.com/user-attachments/assets/d566ef59-49c3-4ca7-a9b5-3a10dfd0c9d3)
 
 ---
 
 ### 5. Distribución Horaria de Tweets
 
-![Tweets por hora](images/tweets_by_hour.png)
+![Distribucion de tweets a lo largo del dia](https://github.com/user-attachments/assets/8108aad2-6f9e-4019-8c9d-5c6d32cf964c)
 
 ---
 
 ### 6. Distribución de Confianza en Etiquetado
 
-![Confianza](images/confidence_distribution.png)
+![Distribucion de la confianza en las quejas negativas](https://github.com/user-attachments/assets/0ec1a9b0-aa1f-420e-878b-4c839e600799)
 
 ---
 
