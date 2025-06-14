@@ -82,9 +82,11 @@ El conjunto de datos fue descargado de Kaggle mediante `kagglehub`:
 
 Airline-Sentiment-Analysis/
 │
+
 ├── data/ # Instrucciones para obtener los datos
 
 ├── notebook/
+
 │ └── airline_sentiment_analysis.ipynb
 
 ├── images/ # Visualizaciones exportadas
